@@ -1,4 +1,4 @@
-# Hey, I’m Revanth 👋
+# Hey there, I am Revanth
 
 I build practical AI systems, workflows, and explainers that help people move from “this is interesting” to “wait, I can actually use this.”
 
